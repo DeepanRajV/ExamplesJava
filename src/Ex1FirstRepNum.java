@@ -4,6 +4,7 @@ import java.util.Random;
 public class Ex1FirstRepNum {
     public static void main(String[] args) {
         
+        // this variable contains size of array
         int n = 10;
         int[] a = new int[n];
         
